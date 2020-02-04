@@ -15,7 +15,7 @@ author: Anna Caroline Lopes
 
 Em 2015 foi estabelecido que a norma 482/2012, que estabelece as condições gerais para a implementação e uso de Geração Distribuída (GD)*, passaria por revisão em 2019; por esta razão a ANEEL (Agência Nacional de Energia Elétrica) abriu uma consulta pública no período de 17/10 a 30/12/2019 visando receber contribuições sobre a proposta de revisão da norma. Houve ainda uma audiência pública na sede da ANEEL no dia 7/11/2019 com o intuito de complementar as contribuições.
 
-*  **(O que é geração distribuída)[http://www.inee.org.br/forum_ger_distrib.asp]**.
+ **(O que é geração distribuída)[http://www.inee.org.br/forum_ger_distrib.asp]**.
 
 <h2>Regra atual </h2>
 
